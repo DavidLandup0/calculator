@@ -1,1 +1,1 @@
-public class Calculator() {}
+public class Calculator {}
